@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed LINKS:-
+# Firebase:- 
+https://aconews-cf70b.web.app/#
+# Vercel :- 
+https://aconewsportal.vercel.app
+
 ### Brief of the Website::
 
 ## Logo FOr AcoNEws:- Made using Microsoft Designer
